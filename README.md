@@ -1,7 +1,7 @@
-* Author: Alexander Ivanov - ttecss at gmail
+Author: Alexander Ivanov - ttecss at gmail
 * 
-* This code is distributed under the GPL License. For more info check:
-* http://www.gnu.org/copyleft/gpl.html
+This code is distributed under the GPL License. For more info check:
+http://www.gnu.org/copyleft/gpl.html
 
 dlghash
 =======
@@ -9,21 +9,26 @@ dlghash
 An alternative hash algorithm with a variable output length
 
 
--- Building --
+**Building**
 
 To build and install use:
 
-$ make && sudo make install
+*$ make && sudo make install*
 
 
--- Running the tool --
+**Running the tool**
 
 Hashing a string:
+
 echo 'test' | ./dlghash
 dlghash 'test'
 
+
 Hashing a string with a specific length:
+
 dlghash 'test' 256
 
+
 Hashing a file:
+
 dlghash < file
