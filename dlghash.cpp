@@ -2,8 +2,8 @@
  * dlghash
  * Author: Alexander Ivanov
  * 
- * This code is distributed under the GPL License. For more info check:
- * http://www.gnu.org/copyleft/gpl.html
+ * This code is distributed under the WTFPL License. For more info check:
+ * http://www.wtfpl.net/txt/copying/
  */
 
 #include <iostream>
