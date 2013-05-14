@@ -1,6 +1,6 @@
 Author: Alexander Ivanov - ttecss at gmail
 
-This code is distributed under the WTFPL License. For more info check:
+This code is distributed under the WTFPL License. For more info check:  
 http://www.wtfpl.net/txt/copying/
 
 dlghash
